@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>Ram P</name>
+        <deptment>EEE</deptment>
+        <role>Student</role>
+        <email>pram@gmail.com</email>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Momina S</name>
+        <deptment>CSE</deptment>
+        <role>Student</role>
+        <email>smomina@gmail.com</email>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Ramesh K</name>
+        <deptment>CSE</deptment>
+        <role>Student</role>
+        <email>ksuresh@gmail.com</email>
+    </user>
+    <user>
+        <id>4</id>
+        <name>Rishita B</name>
+        <deptment>ECE</deptment>
+        <role>Student</role>
+        <email>brishita@gmail.com</email>
+    </user>
+    <user>
+        <id>5</id>
+        <name>Praveena M</name>
+        <deptment>ECE</deptment>
+        <role>Student</role>
+        <email>mpraveena@gmail.com</email>
+    </user>
+    <user>
+        <id>6</id>
+        <name>Akshaya B</name>
+        <deptment>CSE</deptment>
+        <role>Student</role>
+        <email>bakshaya@gmail.com</email>
+    </user>
+    <user>
+        <id>7</id>
+        <name>Srinivas V</name>
+        <deptment>CSE</deptment>
+        <role>Student</role>
+        <email>srinivas@gmail.com</email>
+    </user>
+    <user>
+        <id>8</id>
+        <name>Harshini R</name>
+        <deptment>ECE</deptment>
+        <role>Student</role>
+        <email>rharshini@gmail.com</email>
+    </user>
+    <user>
+        <id>9</id>
+        <name>Soujanya B</name>
+        <deptment>ECE</deptment>
+        <role>Student</role>
+        <email>bsoujanya@gmail.com</email>
+    </user>
+    <user>
+        <id>10</id>
+        <name>Thanvi K</name>
+        <deptment>EEE</deptment>
+        <role>Student</role>
+        <email>kthanvi@gmail.com</email>
+    </user>
+</users>
